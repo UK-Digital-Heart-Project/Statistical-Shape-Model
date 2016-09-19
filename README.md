@@ -15,7 +15,7 @@ The mean shape model is saved as a VTK file. The PCs and variances are saved as 
 
 If you are interested in a specific mode and would like to see how it affects the heart shape, we have also included a Python script which loads the data and computes the shape at a certain standard deviation from the mean shape.
 
-## References
+## How to cite
 
 This study is part of the UK Digital Heart Project, which was set up by Prof. Stuart Cook and Dr. Declan O'Regan at the MRC Clinical Sciences Centre, Imperial College London, UK. It is co-funded by the BHF, MRC and NIHR. In the event you find the shape model useful, please consider giving appropriate credit to it by citing the following relevant papers, which describe the atlas construction methodology [1], the imaging prototol and clinical background [2]. Thank you.
 
